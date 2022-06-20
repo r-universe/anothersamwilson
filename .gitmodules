@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ParBayesianOptimization"]
+	path = ParBayesianOptimization
+	url = https://github.com/anothersamwilson/parbayesianoptimization
+	shallow = true
+	registered = true
